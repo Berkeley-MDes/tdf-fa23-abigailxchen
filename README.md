@@ -15,16 +15,19 @@
 
 I played around with the Rhino sliders and adjusted the following parameters:
 
-🔺 width: 77mm
+🔺 phone width: 77mm
 
 
-🔺 length: 153 mm
+🔺 phone length: 153 mm
 
 
-🔺 depth: 22.6 mm (my phone is quite phat because it has a cardholder with several cards) 
+🔺 phone depth: 22.6 mm (my phone is quite phat because it has a cardholder with several cards) 
 
 
 🔺 material width: 3mm 
+
+
+I chose acrylic as my material because I think it looks cool, and it was the only thick scrap material that I could find.
 
 
 ## The nasty bugs I encountered and how I fixed them! :bug:
@@ -43,6 +46,8 @@ I played around with the Rhino sliders and adjusted the following parameters:
 ![image](smiley.jpg)
 
 ![image](stand.jpg)
+
+![gif](https://im3.ezgif.com/tmp/ezgif-3-70f2885a7e.gif)
 
 
 
