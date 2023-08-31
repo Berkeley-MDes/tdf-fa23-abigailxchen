@@ -9,7 +9,7 @@
 # 💡 Report 1 - Week of 08/28/23
 ## Abigail Chen, Technology Design Foundations
 
-## Description
+## 📎 Description
 
 ✨📱 This week, I designed a cool phone stand. 
 
@@ -30,7 +30,7 @@ I played around with the Rhino sliders and adjusted the following parameters:
 I chose acrylic as my material because I think it looks cool, and it was the only thick scrap material that I could find.
 
 
-## The nasty bugs I encountered and how I fixed them! :bug:
+## :bug: The nasty bugs I encountered and how I fixed them!
 1. **Weird Bugs**
    
    Whenever I closed the control panel, Grasshopper would start tweaking and throw a Display Error that evilly forced me to quit the program. This turned out to be a strange Mac bug that I solved with the classic Restart.
@@ -42,7 +42,7 @@ I chose acrylic as my material because I think it looks cool, and it was the onl
    I forgot to change the default bake scale, so my first bake was **way** too small. After this, I changed the scale to 1:1.
    The second baking challenge (This feels like the Great British Bake-Off) was that after I baked to an Illustrator file, I would open the file to a blank page. This was because my model was not centered in Rhino and thus when converted to Illustrator it was **way** too far off of the artboard to be seen. To solve this, I used the Move command in Rhino and moved my model to 0.
 
-## Photos
+## 📷 Photos
 
 ![image](illustrator.jpg)
 
