@@ -21,10 +21,10 @@ I played around with the Rhino sliders and adjusted the following parameters:
 🔺 length: 153 mm
 
 
-🔺 depth: 22.6 mm
+🔺 depth: 22.6 mm (my phone is quite phat because it has a cardholder with several cards) 
 
 
-🔺 material width: 3mm
+🔺 material width: 3mm 
 
 
 ## The nasty bugs I encountered and how I fixed them! :bug:
@@ -40,6 +40,8 @@ I played around with the Rhino sliders and adjusted the following parameters:
    The second baking challenge (This feels like the Great British Bake-Off) was that after I baked to an Illustrator file, I would open the file to a blank page. This was because my model was not centered in Rhino and thus when converted to Illustrator it was **way** too far off of the artboard to be seen. To solve this, I used the Move command in Rhino and moved my model to 0. 
 
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
+[image](smiley.jpg)
+[image](stand.jpg)
+
 
 
