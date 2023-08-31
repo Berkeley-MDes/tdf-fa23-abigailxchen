@@ -42,6 +42,7 @@ I chose acrylic as my material because I think it looks cool, and it was the onl
    I forgot to change the default bake scale, so my first bake was **way** too small. After this, I changed the scale to 1:1.
    The second baking challenge (This feels like the Great British Bake-Off) was that after I baked to an Illustrator file, I would open the file to a blank page. This was because my model was not centered in Rhino and thus when converted to Illustrator it was **way** too far off of the artboard to be seen. To solve this, I used the Move command in Rhino and moved my model to 0. 
 
+![image](illustrator.jpg)
 
 ![image](smiley.jpg)
 
