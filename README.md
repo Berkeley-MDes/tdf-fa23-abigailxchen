@@ -17,9 +17,12 @@ I played around with the Rhino sliders and adjusted the following parameters:
 
 🔺 width: 77mm
 
+
 🔺 length: 153 mm
 
+
 🔺 depth: 22.6 mm
+
 
 🔺 material width: 3mm
 
