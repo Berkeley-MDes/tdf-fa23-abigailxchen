@@ -6,10 +6,10 @@
 
  ---
  
-# Report 1 - Week of 08/28/23
+# 💡 Report 1 - Week of 08/28/23
 ## Abigail Chen, Technology Design Foundations
 
-This week, I designed a cool phone stand. ✨📱
+✨📱 This week, I designed a cool phone stand. 
 
 I played around with the Rhino sliders and adjusted the following parameters:
 🔺 width: 77mm
@@ -18,7 +18,7 @@ I played around with the Rhino sliders and adjusted the following parameters:
 🔺 material width: 3mm
 
 
-### Here are the nasty bugs :bug: I encountered and how I fixed them! 
+## Here are the nasty bugs I encountered and how I fixed them! :bug:
 1. **Weird Bugs**
    
    Whenever I closed the control panel, Grasshopper would start tweaking and throw a Display Error that evilly forced me to quit the program. This turned out to be a strange Mac bug that I solved with the classic Restart.
