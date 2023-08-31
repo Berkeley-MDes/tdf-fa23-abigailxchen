@@ -47,6 +47,10 @@ I chose acrylic as my material because I think it looks cool, and it was the onl
 
 ![image](stand.jpg)
 
+---
+
+Depiction of The Triumph of Successful Laser Cutting (2023, colorized) 💖
+
 ![gif](https://im3.ezgif.com/tmp/ezgif-3-70f2885a7e.gif)
 
 
