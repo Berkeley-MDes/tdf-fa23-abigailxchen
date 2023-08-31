@@ -9,21 +9,24 @@
 # Report 1 - Week of 08/28/23
 ## Abigail Chen, Technology Design Foundations
 
-This week, I designed a cool phone stand. ✨
+This week, I designed a cool phone stand. ✨📱
 
 I played around with the Rhino sliders and adjusted the following parameters:
-- width: 77mm
-- length: 153 mm
-- depth: 22.6 mm
-- material width: 3mm
+🔺 width: 77mm
+🔺 length: 153 mm
+🔺 depth: 22.6 mm
+🔺 material width: 3mm
 
 
 ### Here are the nasty bugs :bug: I encountered and how I fixed them! 
 1. **Weird Bugs**
+   
    Whenever I closed the control panel, Grasshopper would start tweaking and throw a Display Error that evilly forced me to quit the program. This turned out to be a strange Mac bug that I solved with the classic Restart.
-2. **Perspective**
+3. **Perspective**
+   
    The first time I tried baking my model, I baked at the wrong perspective and got an angled bake. Oops! I solved this by switching to top view (Cody said that in all his 17 years of using Rhino he has only ever used Top, Perspective, and 4Views).
-3. **Baking**
+5. **Baking**
+   
    I forgot to change the default bake scale, so my first bake was **way** too small. After this, I changed the scale to 1:1.
    The second baking challenge (This feels like the Great British Bake-Off) was that after I baked to an Illustrator file, I would open the file to a blank page. This was because my model was not centered in Rhino and thus when converted to Illustrator it was **way** too far off of the artboard to be seen. To solve this, I used the Move command in Rhino and moved my model to 0. 
 
