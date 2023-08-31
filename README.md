@@ -9,7 +9,7 @@
 # 💡 Report 1 - Week of 08/28/23
 ## Abigail Chen, Technology Design Foundations
 
-##Description
+## Description
 
 ✨📱 This week, I designed a cool phone stand. 
 
