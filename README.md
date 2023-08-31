@@ -27,7 +27,7 @@ I played around with the Rhino sliders and adjusted the following parameters:
 🔺 material width: 3mm
 
 
-## Here are the nasty bugs I encountered and how I fixed them! :bug:
+## The nasty bugs I encountered and how I fixed them! :bug:
 1. **Weird Bugs**
    
    Whenever I closed the control panel, Grasshopper would start tweaking and throw a Display Error that evilly forced me to quit the program. This turned out to be a strange Mac bug that I solved with the classic Restart.
