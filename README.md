@@ -85,4 +85,6 @@ This week, I watched TJ's video tutorial titled "Cell Phone Stand Design, Evalua
 ## 💭 Takeaways
 This tutorial helped me better understand the power of computational design and parametric modeling. As a designer who has only 3D modeled from scratch in software like Cinema 4D and Blender, this was my first time designing for scalable designs computationally. This is an extremely powerful tool that allows designers to include the decisions that they care about in the tool where they're making the decisions. No more redesigning your entire model if its position changes. No more finnicking with tiny details that will end up having to be changed. I also appreciate the open source spirit of ShapeDiver, the cloud application for Grasshopper. Anyone with access to the Internet can play with these models! Everyone gets a model! 
 
+## ➡️ Future Considerations
+In the future, I can 3D print the model that I designed today and test it further to see how this design works physically. Getting my hands dirty and simply printing something will be very exciting and help me improve for my next iteration!
 
