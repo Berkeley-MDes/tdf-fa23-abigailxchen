@@ -56,5 +56,28 @@ Depiction of The Triumph of Successful Laser Cutting (2023, colorized) 💖
 
 ![gif](https://im3.ezgif.com/tmp/ezgif-3-70f2885a7e.gif)
 
+---
+
+# 💡 Report 2 - Week of 09/07/23
+## Abigail Chen, Technology Design Foundations
+
+## 📎 Description
+
+This week, I watched TJ's video tutorial titled "Cell Phone Stand Design, Evaluation, and Publication" and worked off of it to create a 3D-printable phone stand customized to the parameters of my own phone, using the same parameters as the previous report. 
+
+## 🧠 What I Learned
+- I **finally** learned the syntax of naming in Grasshopper. In the gray rectangles, the first word is what it represents, and everything following that is the name customized by the user.
+- I also **finally** learned what Brep means. Boundary representation!!! Brep rep!!
+- I learned how to create models from scratch using parametric modeling.
+- I learned how to check if a model is stable and how to implement a color-coding system to determine this 
+
+### 🤔 Important Questions to Ask Before Baking
+- Is the model stable?
+- Do any sections of the model seem too thin or easily breakable when printed?
+- Is there unnecessary volume that can be removed before printing to reduce waste? 
+
+
+## 💭 Takeaways
+This tutorial helped me better understand the power of computational design and parametric modeling. As a designer who has only 3D modeled from scratch in software like Cinema 4D and Blender, this was my first time designing for scalable designs computationally. This is an extremely powerful tool that allows designers to include the decisions that they care about in the tool where they're making the decisions. No more redesigning your entire model if its position changes. No more finnicking with tiny details that will end up having to be changed. I also appreciate the open source spirit of ShapeDiver, the cloud application for Grasshopper. Anyone with access to the Internet can play with these models! Everyone gets a model! 
 
 
