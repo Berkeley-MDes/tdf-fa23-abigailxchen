@@ -63,13 +63,18 @@ Depiction of The Triumph of Successful Laser Cutting (2023, colorized) 💖
 
 ## 📎 Description
 
+![image](tjvideo.jpeg)
+
 This week, I watched TJ's video tutorial titled "Cell Phone Stand Design, Evaluation, and Publication" and worked off of it to create a 3D-printable phone stand customized to the parameters of my own phone, using the same parameters as the previous report. 
 
 ## 🧠 What I Learned
 - I **finally** learned the syntax of naming in Grasshopper. In the gray rectangles, the first word is what it represents, and everything following that is the name customized by the user.
 - I also **finally** learned what Brep means. Boundary representation!!! Brep rep!!
 - I learned how to create models from scratch using parametric modeling.
-- I learned how to check if a model is stable and how to implement a color-coding system to determine this 
+- I learned how to check if a model is stable and how to implement a color-coding system to determine this
+
+### 📷 My Model!
+![image](rhinostand.jpeg)
 
 ### 🤔 Important Questions to Ask Before Baking
 - Is the model stable?
