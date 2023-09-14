@@ -114,13 +114,21 @@ iPad Stand 1 seemed like a really nice standard mdoel. However, as a novice, I w
 
 ![iPad1](ipad2.jpeg)
 
-![iPad1](ipadstand2.jpeg
-
-)
+![iPad1](ipadstand2.jpeg)
 
 This model I really enjoyed first of all because it has an AirPods holder! This is definitely something that I need for my desk as I often misplace my AirPods (I've lost two AirPods/cases before. I'm on my third. Wish me luck). Also, this model included a screenshot of the model in the software, which would help when designing. 
 
 #### Winner: iPad Stand 2! 🥳 
+
+
+## 🏛️ My Model
+
+
+![model](myiphonestand.jpeg)
+
+![modelwphone](myiphonestandwphone.jpeg)
+
+
 
 
 
