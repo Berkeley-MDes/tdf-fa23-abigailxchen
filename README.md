@@ -134,6 +134,8 @@ This model I really enjoyed first of all because it has an AirPods holder! This 
 
 For my final submission, I would like to tweak the parametrics of my Grasshopper file, so that the iPad stand will adjust dynamically to changes of the iPad. I also want to print and see how it turns out! 
 
+Check out my video ![here](https://www.youtube.com/watch?v=OEmV8QkV3yI)!
+
 
 
 
