@@ -98,11 +98,11 @@ In the future, I can 3D print the model that I designed today and test it furthe
 
 This year, I recently bought an iPad Pro for school. Unfortunately, I haven't gotten around to buying an iPad stand, so that it can be a part of my **triple** monitor setup at home (very useful when using Rhino and Grasshopper). But no worries! I can **BUILD** my own iPad stand with the skills that I've learned in TDF!! 
 
-### Phase 1: Research
+## 🔍 Research
 
 I began my research portion of this assignment by browsing the Interwebs of existing iPad stand models to use as inspiration. I stumbled upon a few models on Cults, a 3D printing marketplace that allows makers to share free and paid models meant for 3D printing (it's also a social network for 3D printing enthusiasts!) Two, in particular, caught my eye. 
 
-[iPad Stand 1️⃣](https://cults3d.com/en/3d-model/gadget/ipad-stand-juribe2)
+### [iPad Stand 1️⃣](https://cults3d.com/en/3d-model/gadget/ipad-stand-juribe2)
 
 ![iPad1](ipad1.jpeg)
 
@@ -110,7 +110,7 @@ I began my research portion of this assignment by browsing the Interwebs of exis
 
 iPad Stand 1 seemed like a really nice standard mdoel. However, as a novice, I was a bit befuddled at how to create the geometries that would go into this, especially the curve and the volumes to create the gaps in the model. 
 
-[iPad Stand 2️⃣](https://cults3d.com/en/3d-model/gadget/tablet-stand-for-ipad-pro-with-options)
+### [iPad Stand 2️⃣](https://cults3d.com/en/3d-model/gadget/tablet-stand-for-ipad-pro-with-options)
 
 ![iPad1](ipad2.jpeg)
 
@@ -121,7 +121,7 @@ This model I really enjoyed first of all because it has an AirPods holder! This 
 #### Winner: iPad Stand 2! 🥳 
 
 
-## 🏛️ My Model
+## 🏛️ Modeling
 
 
 ![model](myiphonestand.jpeg)
