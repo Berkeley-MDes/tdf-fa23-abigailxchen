@@ -96,8 +96,6 @@ In the future, I can 3D print the model that I designed today and test it furthe
 
 ## 📎 Description
 
-This week, I began preparing for Project 1 by watching several YouTube tutorials and getting familiar with Rhino and Grasshopper. 
-
 This year, I recently bought an iPad Pro for school. Unfortunately, I haven't gotten around to buying an iPad stand, so that it can be a part of my **triple** monitor setup at home (very useful when using Rhino and Grasshopper). But no worries! I can **BUILD** my own iPad stand with the skills that I've learned in TDF!! 
 
 ### Phase 1: Research
@@ -106,21 +104,25 @@ I began my research portion of this assignment by browsing the Interwebs of exis
 
 [iPad Stand 1️⃣](https://cults3d.com/en/3d-model/gadget/ipad-stand-juribe2)
 
-![iPad1]()
+![iPad1](ipad1.jpeg)
 
-![iPad1]()
+![iPad1](ipadstand1.jpeg)
 
 iPad Stand 1 seemed like a really nice standard mdoel. However, as a novice, I was a bit befuddled at how to create the geometries that would go into this, especially the curve and the volumes to create the gaps in the model. 
 
 [iPad Stand 2️⃣](https://cults3d.com/en/3d-model/gadget/tablet-stand-for-ipad-pro-with-options)
 
-![iPad1]()
+![iPad1](ipad2.jpeg)
 
-![iPad1]()
+![iPad1](ipadstand2.jpeg
+
+)
 
 This model I really enjoyed first of all because it has an AirPods holder! This is definitely something that I need for my desk as I often misplace my AirPods (I've lost two AirPods/cases before. I'm on my third. Wish me luck). Also, this model included a screenshot of the model in the software, which would help when designing. 
 
 #### Winner: iPad Stand 2! 🥳 
+
+
 
 
 
