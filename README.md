@@ -124,9 +124,9 @@ This model I really enjoyed first of all because it has an AirPods holder! This 
 ## 🏛️ Modeling
 
 
-![model](myiphonestand.jpeg)
+![model](myipadstand.jpeg)
 
-![modelwphone](myiphonestandwphone.jpeg)
+![modelwphone](myipadstandwphone.jpeg)
 
 
 
