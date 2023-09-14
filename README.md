@@ -104,7 +104,7 @@ This year, I recently bought an iPad Pro for school. Unfortunately, I haven't go
 
 I began my research portion of this assignment by browsing the Interwebs of existing iPad stand models to use as inspiration. I stumbled upon a few models on Cults, a 3D printing marketplace that allows makers to share free and paid models meant for 3D printing (it's also a social network for 3D printing enthusiasts!) Two, in particular, caught my eye. 
 
-#### [iPad Stand 1️⃣](https://cults3d.com/en/3d-model/gadget/ipad-stand-juribe2)
+[iPad Stand 1️⃣](https://cults3d.com/en/3d-model/gadget/ipad-stand-juribe2)
 
 ![iPad1]()
 
@@ -112,7 +112,7 @@ I began my research portion of this assignment by browsing the Interwebs of exis
 
 iPad Stand 1 seemed like a really nice standard mdoel. However, as a novice, I was a bit befuddled at how to create the geometries that would go into this, especially the curve and the volumes to create the gaps in the model. 
 
-#### [iPad Stand 2️⃣](https://cults3d.com/en/3d-model/gadget/tablet-stand-for-ipad-pro-with-options)
+[iPad Stand 2️⃣](https://cults3d.com/en/3d-model/gadget/tablet-stand-for-ipad-pro-with-options)
 
 ![iPad1]()
 
