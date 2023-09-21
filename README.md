@@ -1,10 +1,33 @@
-## Quick Links ##
-
 - [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
-- [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
-- [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
 
  ---
+
+ # 💡 Report 4 - Week of 09/21/23
+## Abigail Chen, Technology Design Foundations
+
+## 📎 Description
+
+This week, I got set up with my Particle Photon 2 microcontroller! 
+
+The process was fairly simple. I followed Sudhu's instructions on how to get set up, which were the following:
+1. Initial Setup. I named my device **sexy_micro**
+2. Configure Wi-Fi
+3. Get Mac Address
+4. Register Mac Address with Berkeley IoT
+
+I had some trouble with the initial connection since I first tried conneting my Photon to an Adapter plugged into my laptop via USB-C, pictured below. 
+
+![wrong connection](photonwrong.jpeg)
+
+However, my Photon wasn't showing up, so I checked the TDF Slack and found that a classmate was having the exact same issue. I messaged her, and she graciously told me to plug my Photon directly into my laptop via the USB C cable that came with our kit!
+
+![correct connection](photoncorrect.jpeg) 
+
+## ➡️ Next Steps
+
+For our class tomorrow, hopefully we'll be using and tinkering around with **sexy_micro**! I can't wait. 
+
+---
 
  # 💡 Report 3 - Week of 09/14/23
 ## Abigail Chen, Technology Design Foundations
