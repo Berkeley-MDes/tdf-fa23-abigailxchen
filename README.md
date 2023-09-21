@@ -17,11 +17,11 @@ The process was fairly simple. I followed Sudhu's instructions on how to get set
 
 I had some trouble with the initial connection since I first tried conneting my Photon to an Adapter plugged into my laptop via USB-C, pictured below. 
 
-![wrong connection](photonwrong.jpeg)
+![wrong connection](photonwrong.jpg)
 
 However, my Photon wasn't showing up, so I checked the TDF Slack and found that a classmate was having the exact same issue. I messaged her, and she graciously told me to plug my Photon directly into my laptop via the USB C cable that came with our kit!
 
-![correct connection](photoncorrect.jpeg) 
+![correct connection](photoncorrect.jpg) 
 
 ## ➡️ Next Steps
 
