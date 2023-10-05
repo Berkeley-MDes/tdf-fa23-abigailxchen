@@ -7,7 +7,7 @@
 
 ## 📎 Description
 
-This week, my TDF group and I got together to write our Project Specs in ![this doc](https://docs.google.com/document/d/1Q6KBJUg6nhvs-IQsDCxjO8rSfnwr_xWBTeFlMxlDzE0/edit?usp=sharing)!
+This week, my TDF group and I got together to write our Project Specs in [this doc](https://docs.google.com/document/d/1Q6KBJUg6nhvs-IQsDCxjO8rSfnwr_xWBTeFlMxlDzE0/edit?usp=sharing)!
 
 
  ---
