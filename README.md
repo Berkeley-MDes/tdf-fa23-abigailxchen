@@ -9,6 +9,11 @@
 
 This week, my TDF group and I got together to write our Project Specs in [this doc](https://docs.google.com/document/d/1Q6KBJUg6nhvs-IQsDCxjO8rSfnwr_xWBTeFlMxlDzE0/edit?usp=sharing)!
 
+## ➡️ Next Steps
+
+For next steps, I will be in charge of looking into lighting options for our project. Currently, we are considering the following: 
+- Neopixels
+- nOODS flexible lighting
 
  ---
 
