@@ -1,5 +1,15 @@
 - [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 
+---
+
+ # 💡 Report 5 - Week of 10/05/23
+## Abigail Chen, Technology Design Foundations
+
+## 📎 Description
+
+This week, my TDF group and I got together to write our Project Specs in ![this doc](https://docs.google.com/document/d/1Q6KBJUg6nhvs-IQsDCxjO8rSfnwr_xWBTeFlMxlDzE0/edit?usp=sharing)!
+
+
  ---
 
  # 💡 Report 4 - Week of 09/21/23
