@@ -2,7 +2,7 @@
 
 ---
 
- # 💡 Report 5 - Week of 10/05/23
+ # 💡 Report 6 - Week of 10/05/23
 ## Abigail Chen, Technology Design Foundations
 
 ## 📎 Description
@@ -14,6 +14,22 @@ This week, my TDF group and I got together to write our Project Specs in [this d
 For next steps, I will be in charge of looking into lighting options for our project. Currently, we are considering the following: 
 - Neopixels
 - nOODS flexible lighting
+
+---
+
+ # 💡 Report 5 - Week of 9/28/23
+## Abigail Chen, Technology Design Foundations
+
+## 📎 Description
+
+This week, we each chose and ranked our favorite projects ideas. 
+I was placed in the **Laser Chime ** group! We plan to create a wind chime and replace the chimes with lasers!!
+We are also thinking of scaling our idea up to a human-sized art installation, in which you become the striker in the middle and can create audio and visual feedback by hitting certain areas.
+
+## ➡️ Next Steps 
+
+Our next steps will be to meet as a group next week to discuss buying sensors! 
+
 
  ---
 
