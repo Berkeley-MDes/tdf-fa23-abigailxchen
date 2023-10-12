@@ -2,6 +2,18 @@
 
 ---
 
+ # 💡 Report 7 - Week of 10/12/23
+## Abigail Chen, Technology Design Foundations
+
+## 📎 Description
+
+This week, I received the Neopixel Ring! During class today, I plan on testing it out with the Photon to test different lighting systems. 
+
+![neopixel](neopixel.jpg) 
+
+
+---
+
  # 💡 Report 6 - Week of 10/05/23
 ## Abigail Chen, Technology Design Foundations
 
