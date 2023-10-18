@@ -2,6 +2,14 @@
 
 ---
 
+ # 💡 Report 8 - Week of 10/12/23
+## Abigail Chen, Technology Design Foundations
+
+This week, we finished our prototype and created our video!
+
+
+--- 
+
  # 💡 Report 7 - Week of 10/12/23
 ## Abigail Chen, Technology Design Foundations
 
