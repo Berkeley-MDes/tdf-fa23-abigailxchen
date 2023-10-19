@@ -7,6 +7,8 @@
 
 This week, we finished our prototype and created our video!
 
+Watch it [here!](https://www.youtube.com/watch?v=M70af7eBjBw)
+
 
 --- 
 
