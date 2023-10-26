@@ -2,6 +2,23 @@
 
 ---
 
+ # 💡 Report 9 - Week of 10/26/23
+## Abigail Chen, Technology Design Foundations
+
+This week, after an assigned reading in my Tangible User Interfaces class, I started reading _Speculative Everything: Design, Fiction, and Social Dreaming_ by Anthony Dunne and Fiona Raby.
+
+## 💭 Key Takeaways So Far
+- Speculative design aims to provoke and create imaginary realities that could happen in the future.
+- Speculative design is well suited for several fields, such as architecture, furniture design, and automotive design. However, it is **not** well-suited for product design. Product design remains closely aligned with market esxpectation and is one of the few areas in which conceptual and commercial approaches really do not mix.
+- Rather than seek out market gaps for new products, designers should work independently of industry, in partnership with organizations focused on society in the broadest sense, not just business. Designers should use their time for more civic purposes. Universities should become platforms for experimentation, speculation, and the reimagining of everyday life.
+- Speculative design and art differ in that design touches closely upon the everyday life. If it's weird, people can brush it off as art. If it touches their everyday life like speculative design does, they are forced to think about it.
+- Marcel Duchamp was considered the first true conceptual artist.
+
+
+
+
+---
+
  # 💡 Report 8 - Week of 10/12/23
 ## Abigail Chen, Technology Design Foundations
 
