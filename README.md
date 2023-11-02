@@ -5,19 +5,18 @@
  # 💡 Report 9 - Week of 10/26/23
 ## Abigail Chen, Technology Design Foundations
 
-
-This week, I have been diving deep into design competitions and conferences. Recently, I discovered these two:
+This week, I have been diving into design competitions and conferences. Recently, I discovered these two:
 
 - International Design Awards
 - Ars Electronica
 
 ### 🌎 International Design Awards
 
-International Design Awards (IDA) is a design competition that accepts submissions from all over the world in basically any category imaginable. It's pretty incredible. I am planning to submit my Hydropoonics project that I completed in my Studio course and see how that does! 
+International Design Awards (IDA) is a design competition that accepts submissions from all over the world in basically any category imaginable. It's pretty incredible. I am planning to submit my Hydropoonics project that I completed in my Studio course with my partner Ankur and see how that goes! The submission is way too easy not to. It's literally just a few pictures and a description (max 600 characters. That's like one mini baby paragraph). When it's that easy, I just have to try. 
 
 ### 📀 Ars Electronica
 
-Ars Electronica is one of the biggest media arts conferences. Its focus is to highlight engaging projects in a few categories, such as New Animation Art, AI & Life Art, Music and Sound Art. Going through the projects has been incredibly inspiring and has honestly made me want to dive deeper into this space of media art/installations. 
+Ars Electronica is one of the biggest media arts conferences. Its focus is to highlight engaging projects in a few categories, such as New Animation Art, AI & Life Art, Music and Sound Art. Going through the projects has been incredibly inspiring and has honestly made me want to dive deeper into this space of media art/installations, potentially as a future career (????) Let's not worry about that for now though. No career crisis today. 
 
 
 ---
