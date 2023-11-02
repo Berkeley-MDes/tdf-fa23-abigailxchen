@@ -11,11 +11,11 @@ This week, I have been diving deep into design competitions and conferences. Rec
 - International Design Awards
 - Ars Electronica
 
-## 🌎 International Design Awards
+### 🌎 International Design Awards
 
 International Design Awards (IDA) is a design competition that accepts submissions from all over the world in basically any category imaginable. It's pretty incredible. I am planning to submit my Hydropoonics project that I completed in my Studio course and see how that does! 
 
-## 📀 Ars Electronica
+### 📀 Ars Electronica
 
 Ars Electronica is one of the biggest media arts conferences. Its focus is to highlight engaging projects in a few categories, such as New Animation Art, AI & Life Art, Music and Sound Art. Going through the projects has been incredibly inspiring and has honestly made me want to dive deeper into this space of media art/installations. 
 
