@@ -5,6 +5,16 @@
  # 💡 Report 9 - Week of 10/26/23
 ## Abigail Chen, Technology Design Foundations
 
+This week, I have been thinking more about my final project for TDF. My initial idea was to create an art installation in which two AIs talk to and debate each other infinitely (one is pro-AI, the other is anti-AI). This was inspired by [this video](https://youtu.be/Xw-zxQSEzqo?feature=shared) in which two AIs have an existential crisis. 
+
+Today, we were also visited by an alum from MDes Cohort 1: Koi Ren, a new media artist and design innovator at Nike. She held a casual conversation in Jacobs about her work in MDes, her new media art, and her career path. I was incredibly inspired by her work and found that one of her exhibits kind of closely resembled my idea: [Lava.AI.Dream](https://www.koi-ren.com/aidream), in which she collected AI-generated dreams using GPT from women and displayed visualizations throughout a room using TouchDesigner. I reached out to her and hope to get her advice and feedback throughout my project as well. 
+
+---
+
+
+ # 💡 Report 9 - Week of 10/26/23
+## Abigail Chen, Technology Design Foundations
+
 This week, I have been diving into design competitions and conferences. Recently, I discovered these two:
 
 - International Design Awards
