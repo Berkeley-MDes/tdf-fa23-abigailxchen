@@ -2,7 +2,7 @@
 
 ---
 
- # 💡 Report 9 - Week of 10/26/23
+ # 💡 Report 10 - Week of 10/26/23
 ## Abigail Chen, Technology Design Foundations
 
 This week, I have been thinking more about my final project for TDF. My initial idea was to create an art installation in which two AIs talk to and debate each other infinitely (one is pro-AI, the other is anti-AI). This was inspired by [this video](https://youtu.be/Xw-zxQSEzqo?feature=shared) in which two AIs have an existential crisis. 
